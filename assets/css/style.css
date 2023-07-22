@@ -48,7 +48,6 @@ h2 {
 }
 
 header .line {
-  background-color: #117050;
   height: 10px;
 }
 
@@ -239,4 +238,23 @@ header .line {
 .area4-img1 {
   background-image: url('../images/bg3.jpg');
   background-position: left;
+}
+
+.area5 {
+  height: 600px;
+  background-image: url('../images/bg4.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+footer {
+  background-color: #333;
+  color: #FFF;
+  padding: 80px;
+  text-align: center;
+}
+
+footer a {
+  color: #FFF;
+  cursor: pointer;
 }
