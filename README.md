@@ -27,14 +27,9 @@
 
 ## 💻 Projeto
 
-Projeto consiste em uma landing page simples chamada AWAX, este foi desenvolvido apenas com HTML5, CSS3 para aprimorar minhas habilidades.
+Projeto consiste em uma landing page simples chamada Starbucks, este foi desenvolvido apenas com HTML5, CSS3 para aprimorar minhas habilidades.
 
 [Visitar site do projeto](https://starbucks-wanderson-timoteo.netlify.app/)
-
-<br>
-
-Landing page free em Behance, disigner
-[Alexander Bukin](https://www.behance.net/gallery/58301549/Free-Landing-Page/)
 
 <br>
 
